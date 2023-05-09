@@ -1,4 +1,5 @@
 hello world
 hello world my name is Alen
 lets add to the branch some stuff
-lets add to the branch some changesgit branch feature
+lets add to the branch some changes in git branch master
+Lets practice more git
